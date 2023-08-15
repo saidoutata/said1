@@ -10,7 +10,7 @@ https://scdn.nrjaudio.fm/adwz1/fr/30611/aac_64.mp3
 #EXTINF:5,blues
 https://streams.calmradio.com:3728/stream.mp3
 #EXTINF:6,radio rai
-https://radio-dzair.net/proxy/raina?mp=/stream.mp3
+https://radiodzair.net:8060/raina?shoutcast
 #EXTINF:7,Mozart
 https://streams.calmradio.com:7328/stream.mp3
 #EXTINF:8,bird song
